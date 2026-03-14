@@ -4,11 +4,8 @@ roles:
 
 collections:
   - name: ansible.posix
-<<<<<<< HEAD
   - name: ansible.utils
-=======
   - name: community.docker
->>>>>>> ba4717e (Add `docker_compose` role)
   - name: community.general
   - name: community.proxmox
   - name: grafana.grafana
